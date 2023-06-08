@@ -1,0 +1,7 @@
+version = 0.24.1
+margin=90
+profile=janestreet
+break-separators=after
+dock-collection-brackets=true
+exp-grouping= preserve
+parse-docstrings=true

@@ -1,0 +1,6 @@
+(test
+ (name test)
+ (libraries nosock))
+ (env
+  (dev
+    (flags (:standard -w -33 -w -32 -w -27 -w -26 -w -37 -w -34 -w -69))))
